@@ -1,5 +1,8 @@
 # 🤖 DEV.ia — Sistema de Prompts para Engenharia de Software
 
+🌐 **Acesse a aplicação:**  
+👉 https://marialuizakoerich.github.io/Projeto-DIO-Modos_IA/
+
 Projeto desenvolvido para o curso de **Node.js da DIO**, com foco na criação de um sistema estruturado de prompts para uso com Inteligência Artificial no desenvolvimento de software.
 
 ---
